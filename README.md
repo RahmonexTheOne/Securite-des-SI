@@ -10,14 +10,6 @@ Ce dépôt vise à centraliser l'ensemble des Travaux Pratiques réalisés dans 
   - Fichiers du TP
   - Correction détaillée
 
-- **TP2 - Cryptographie et gestion des clés**
-  - Fichiers du TP
-  - Correction détaillée
-
-- **TP3 - Contrôle d'accès et authentification**
-  - Fichiers du TP
-  - Correction détaillée
-
 ...
 
 ## Comment utiliser ce dépôt
